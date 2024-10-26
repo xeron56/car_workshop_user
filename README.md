@@ -4,23 +4,35 @@ A new Flutter project.
 
 ## Getting Started
 
-### Build and Run the App
+## Instructions to Build and Run on Android
 
-1. **Clone the repository:**
-    ```sh
-    git clone car_workshop_user
-    cd car_workshop_user
-    ```
+1. **Install Flutter:**
+     - Follow the official Flutter installation guide: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-2. **Install dependencies:**
-    ```sh
-    flutter pub get
-    ```
+2. **Clone the Repository:**
+     ```sh
+     git clone https://github.com/xeron56/car_workshop_user
+     cd car_workshop_user
+     ```
 
-3. **Run the app:**
-    ```sh
-    flutter run
-    ```
+3. **Install Dependencies:**
+     ```sh
+     flutter pub get
+     ```
+
+4. **Connect an Android Device or Start an Emulator:**
+     - Ensure your device is connected and debugging mode is enabled, or start an Android emulator.
+
+5. **Run the App:**
+     ```sh
+     flutter run
+     ```
+
+6. **Build APK (Optional):**
+     ```sh
+     flutter build apk
+     ```
+     - The APK will be located in the `build/app/outputs/flutter-apk/` directory.
 
 ### Login Instructions
 
