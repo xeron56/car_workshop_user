@@ -4,13 +4,32 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Build and Run the App
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository:**
+    ```sh
+    git clone car_workshop_user
+    cd car_workshop_user
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Install dependencies:**
+    ```sh
+    flutter pub get
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Run the app:**
+    ```sh
+    flutter run
+    ```
+
+### Login Instructions
+
+- **Username:** `user@testmail.com`
+- **Password:** `user@testmail.com`
+
+### Register a New Account
+
+1. Open the app.
+2. Navigate to the registration screen.
+3. Fill in the required details.
+4. Submit the registration form.
